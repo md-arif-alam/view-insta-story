@@ -68,15 +68,7 @@ Visit http://localhost:5173 in your browser (mobile view recommended).
     Story Data (data/stories.js):
     Contains an array of story objects with image URLs.
 
-⏳ Time Breakdown
-Task	Time Spent
-Project setup (React + Tailwind)	~15 minutes
-Story List implementation	~25 minutes
-Image responsiveness and layout tweaks	~30 minutes
-Story Viewer component with navigation	~40 minutes
-Auto-advance logic (5 sec)	~15 minutes
-Testing & refinements	~20 minutes
-Total	~2 hours 25 minutes
+
 🧠 Challenges
 
 The biggest challenge was ensuring that images display correctly across various screen sizes while maintaining aspect ratios and fitting into the designated containers (object-cover helped a lot here). Implementing tap areas for navigation without third-party libraries also required careful layout handling.
